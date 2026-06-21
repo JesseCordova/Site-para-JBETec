@@ -1,6 +1,0 @@
-{
-  "name": "JBETec - Engenharia & Automação",
-  "description": "Plataforma profissional para serviços de engenharia, projetos elétricos, automação residencial e industrial.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
